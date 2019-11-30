@@ -1,4 +1,4 @@
-import nimnoise
+import ../src/nimnoise
 import imageman
 
 var img = initImage[ColorRGBAU](500, 500)
