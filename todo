@@ -1,0 +1,28 @@
+[X] Abs
+[X] Add
+[X] Billow
+[X] Blend
+[X] Cache
+[X] Checkerboard
+[X] Clamp
+[X] Const
+[X] Curve (Untested)
+[X] Cylinders
+[X] Displace (Untested)
+[X] Exponent (Untested)
+[X] Invert
+[X] Max
+[X] Min
+[X] Multiply
+[X] Perlin
+[X] Power
+[X] RidgedMulti
+[X] RotatePoint
+[X] ScaleBias
+[X] ScalePoint
+[X] Select (Untested)
+[X] Spheres
+[X] Terrace (Untested)
+[X] TranslatePoint
+[X] Turbulence
+[X] Voronoi
