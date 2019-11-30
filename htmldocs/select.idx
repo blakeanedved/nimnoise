@@ -1,0 +1,12 @@
+Select	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#Select	select: Select	
+newSelect	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#newSelect	select: newSelect(): Select	
+getControlModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#getControlModule,Select	select: getControlModule(s: Select): ModuleBase	
+getEdgeFalloff	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#getEdgeFalloff,Select	select: getEdgeFalloff(s: Select): float64	
+getLowerBound	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#getLowerBound,Select	select: getLowerBound(s: Select): float64	
+getUpperBound	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#getUpperBound,Select	select: getUpperBound(s: Select): float64	
+setControlModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#setControlModule,Select,ModuleBase	select: setControlModule(s: Select; mb: ModuleBase)	
+setEdgeFalloff	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#setEdgeFalloff,Select,float64	select: setEdgeFalloff(s: Select; edgeFalloff: float64)	
+setLowerBound	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#setLowerBound,Select,float64	select: setLowerBound(s: Select; lowerBound: float64)	
+setUpperBound	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#setUpperBound,Select,float64	select: setUpperBound(s: Select; upperBound: float64)	
+setBounds	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#setBounds,Select,float64,float64	select: setBounds(s: Select; lowerBound, upperBound: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/select.html#getValue.e,Select,float64,float64,float64	select: getValue(s: Select; noiseX, noiseY, noiseZ: float64): float64	

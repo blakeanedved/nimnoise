@@ -1,0 +1,19 @@
+RidgedMulti	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#RidgedMulti	ridgedmulti: RidgedMulti	
+newRidgedMulti	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#newRidgedMulti	ridgedmulti: newRidgedMulti(): RidgedMulti	
+getFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getFrequency,RidgedMulti	ridgedmulti: getFrequency(rm: RidgedMulti): float	
+getLacunarity	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getLacunarity,RidgedMulti	ridgedmulti: getLacunarity(rm: RidgedMulti): float	
+getSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getSeed,RidgedMulti	ridgedmulti: getSeed(rm: RidgedMulti): int	
+getOctaveCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getOctaveCount,RidgedMulti	ridgedmulti: getOctaveCount(rm: RidgedMulti): int	
+getNoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getNoiseQuality,RidgedMulti	ridgedmulti: getNoiseQuality(rm: RidgedMulti): NoiseQuality	
+getExponent	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getExponent,RidgedMulti	ridgedmulti: getExponent(rm: RidgedMulti): float64	
+getGain	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getGain,RidgedMulti	ridgedmulti: getGain(rm: RidgedMulti): float64	
+getOffset	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getOffset,RidgedMulti	ridgedmulti: getOffset(rm: RidgedMulti): float64	
+setFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setFrequency,RidgedMulti,float64	ridgedmulti: setFrequency(rm: RidgedMulti; frequency: float64)	
+setSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setSeed,RidgedMulti,int	ridgedmulti: setSeed(rm: RidgedMulti; seed: int)	
+setNoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setNoiseQuality,RidgedMulti,NoiseQuality	ridgedmulti: setNoiseQuality(rm: RidgedMulti; quality: NoiseQuality)	
+setExponent	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setExponent,RidgedMulti,float64	ridgedmulti: setExponent(rm: RidgedMulti; exponent: float64)	
+setGain	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setGain,RidgedMulti,float64	ridgedmulti: setGain(rm: RidgedMulti; gain: float64)	
+setOffset	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setOffset,RidgedMulti,float64	ridgedmulti: setOffset(rm: RidgedMulti; offset: float64)	
+setLacunarity	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setLacunarity,RidgedMulti,float64	ridgedmulti: setLacunarity(rm: RidgedMulti; lacunarity: float64)	
+setOctaveCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#setOctaveCount,RidgedMulti,int	ridgedmulti: setOctaveCount(rm: RidgedMulti; octaveCount: int)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/ridgedmulti.html#getValue.e,RidgedMulti,float64,float64,float64	ridgedmulti: getValue(rm: RidgedMulti; noiseX, noiseY, noiseZ: float64): float64	

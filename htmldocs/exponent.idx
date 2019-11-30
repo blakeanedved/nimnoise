@@ -1,0 +1,5 @@
+Exponent	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/exponent.html#Exponent	exponent: Exponent	
+newExponent	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/exponent.html#newExponent	exponent: newExponent(): Exponent	
+getExponent	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/exponent.html#getExponent,Exponent	exponent: getExponent(e: Exponent): float64	
+setExponent	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/exponent.html#setExponent,Exponent,float64	exponent: setExponent(e: Exponent; ex: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/exponent.html#getValue.e,Exponent,float64,float64,float64	exponent: getValue(e: Exponent; noiseX, noiseY, noiseZ: float64): float64	

@@ -1,0 +1,13 @@
+Turbulence	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#Turbulence	turbulence: Turbulence	
+newTurbulence	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#newTurbulence	turbulence: newTurbulence(): Turbulence	
+getFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#getFrequency,Turbulence	turbulence: getFrequency(t: Turbulence): float64	
+getPower	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#getPower,Turbulence	turbulence: getPower(t: Turbulence): float64	
+getRoughnessCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#getRoughnessCount,Turbulence	turbulence: getRoughnessCount(t: Turbulence): int	
+getRoughness	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#getRoughness,Turbulence	turbulence: getRoughness(t: Turbulence): int	
+getSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#getSeed,Turbulence	turbulence: getSeed(t: Turbulence): int	
+setFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#setFrequency,Turbulence,float64	turbulence: setFrequency(t: Turbulence; frequency: float64)	
+setPower	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#setPower,Turbulence,float64	turbulence: setPower(t: Turbulence; power: float64)	
+setRoughnessCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#setRoughnessCount,Turbulence,int	turbulence: setRoughnessCount(t: Turbulence; roughness: int)	
+setRoughness	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#setRoughness,Turbulence,int	turbulence: setRoughness(t: Turbulence; roughness: int)	
+setSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#setSeed,Turbulence,int	turbulence: setSeed(t: Turbulence; seed: int)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/turbulence.html#getValue.e,Turbulence,float64,float64,float64	turbulence: getValue(t: Turbulence; noiseX, noiseY, noiseZ: float64): float64	

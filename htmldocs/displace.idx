@@ -1,0 +1,10 @@
+Displace	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#Displace	displace: Displace	
+newDisplace	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#newDisplace	displace: newDisplace(): Displace	
+getXDisplaceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#getXDisplaceModule,Displace	displace: getXDisplaceModule(d: Displace): ModuleBase	
+getYDisplaceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#getYDisplaceModule,Displace	displace: getYDisplaceModule(d: Displace): ModuleBase	
+getZDisplaceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#getZDisplaceModule,Displace	displace: getZDisplaceModule(d: Displace): ModuleBase	
+setXDisplaceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#setXDisplaceModule,Displace,ModuleBase	displace: setXDisplaceModule(d: Displace; mb: ModuleBase)	
+setYDisplaceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#setYDisplaceModule,Displace,ModuleBase	displace: setYDisplaceModule(d: Displace; mb: ModuleBase)	
+setZDisplaceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#setZDisplaceModule,Displace,ModuleBase	displace: setZDisplaceModule(d: Displace; mb: ModuleBase)	
+setDisplaceModules	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#setDisplaceModules,Displace,ModuleBase,ModuleBase,ModuleBase	displace: setDisplaceModules(d: Displace; mbx, mby, mbz: ModuleBase)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/displace.html#getValue.e,Displace,float64,float64,float64	displace: getValue(d: Displace; noiseX, noiseY, noiseZ: float64): float64	

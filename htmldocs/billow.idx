@@ -1,0 +1,15 @@
+Billow	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#Billow	billow: Billow	
+newBillow	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#newBillow	billow: newBillow(): Billow	
+getFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getFrequency,Billow	billow: getFrequency(b: Billow): float	
+getLacunarity	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getLacunarity,Billow	billow: getLacunarity(b: Billow): float	
+getPersistence	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getPersistence,Billow	billow: getPersistence(b: Billow): float	
+getSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getSeed,Billow	billow: getSeed(b: Billow): int	
+getOctaveCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getOctaveCount,Billow	billow: getOctaveCount(b: Billow): int	
+getNoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getNoiseQuality,Billow	billow: getNoiseQuality(b: Billow): NoiseQuality	
+setFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#setFrequency,Billow,float	billow: setFrequency(b: Billow; frequency: float)	
+setLacunarity	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#setLacunarity,Billow,float	billow: setLacunarity(b: Billow; lacunarity: float)	
+setPersistence	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#setPersistence,Billow,float	billow: setPersistence(b: Billow; persistence: float)	
+setSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#setSeed,Billow,int	billow: setSeed(b: Billow; seed: int)	
+setNoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#setNoiseQuality,Billow,NoiseQuality	billow: setNoiseQuality(b: Billow; quality: NoiseQuality)	
+setOctaveCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#setOctaveCount,Billow,int	billow: setOctaveCount(b: Billow; octaveCount: int)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/billow.html#getValue.e,Billow,float64,float64,float64	billow: getValue(b: Billow; noiseX, noiseY, noiseZ: float64): float64	

@@ -1,0 +1,3 @@
+Cache	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cache.html#Cache	cache: Cache	
+newCache	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cache.html#newCache	cache: newCache(): Cache	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cache.html#getValue.e,Cache,float64,float64,float64	cache: getValue(c: Cache; noiseX, noiseY, noiseZ: float64): float64	

@@ -1,0 +1,3 @@
+Abs	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/abs.html#Abs	abs: Abs	
+newAbs	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/abs.html#newAbs	abs: newAbs(): Abs	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/abs.html#getValue.e,Abs,float64,float64,float64	abs: getValue(a: Abs; noiseX, noiseY, noiseZ: float64): float64	

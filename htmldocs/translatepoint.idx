@@ -1,0 +1,11 @@
+TranslatePoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#TranslatePoint	translatepoint: TranslatePoint	
+newTranslatePoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#newTranslatePoint	translatepoint: newTranslatePoint(): TranslatePoint	
+getXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#getXScale,TranslatePoint	translatepoint: getXScale(tp: TranslatePoint): float64	
+getYScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#getYScale,TranslatePoint	translatepoint: getYScale(tp: TranslatePoint): float64	
+getZScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#getZScale,TranslatePoint	translatepoint: getZScale(tp: TranslatePoint): float64	
+setXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#setXScale,TranslatePoint,float64	translatepoint: setXScale(tp: TranslatePoint; xTranslation: float64)	
+setXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#setXScale,TranslatePoint,float64_2	translatepoint: setXScale(tp: TranslatePoint; yTranslation: float64)	
+setXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#setXScale,TranslatePoint,float64_3	translatepoint: setXScale(tp: TranslatePoint; zTranslation: float64)	
+setScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#setScale,TranslatePoint,float64	translatepoint: setScale(tp: TranslatePoint; translation: float64)	
+setScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#setScale,TranslatePoint,float64,float64,float64	translatepoint: setScale(tp: TranslatePoint; xTranslation, yTranslation, zTranslation: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/translatepoint.html#getValue.e,TranslatePoint,float64,float64,float64	translatepoint: getValue(tp: TranslatePoint; noiseX, noiseY, noiseZ: float64): float64	

@@ -1,0 +1,15 @@
+Perlin	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#Perlin	perlin: Perlin	
+newPerlin	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#newPerlin	perlin: newPerlin(): Perlin	
+getFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getFrequency,Perlin	perlin: getFrequency(p: Perlin): float	
+getLacunarity	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getLacunarity,Perlin	perlin: getLacunarity(p: Perlin): float	
+getPersistence	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getPersistence,Perlin	perlin: getPersistence(p: Perlin): float	
+getSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getSeed,Perlin	perlin: getSeed(p: Perlin): int	
+getOctaveCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getOctaveCount,Perlin	perlin: getOctaveCount(p: Perlin): int	
+getNoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getNoiseQuality,Perlin	perlin: getNoiseQuality(p: Perlin): NoiseQuality	
+setFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#setFrequency,Perlin,float	perlin: setFrequency(p: Perlin; frequency: float)	
+setLacunarity	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#setLacunarity,Perlin,float	perlin: setLacunarity(p: Perlin; lacunarity: float)	
+setPersistence	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#setPersistence,Perlin,float	perlin: setPersistence(p: Perlin; persistence: float)	
+setSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#setSeed,Perlin,int	perlin: setSeed(p: Perlin; seed: int)	
+setNoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#setNoiseQuality,Perlin,NoiseQuality	perlin: setNoiseQuality(p: Perlin; quality: NoiseQuality)	
+setOctaveCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#setOctaveCount,Perlin,int	perlin: setOctaveCount(p: Perlin; octaveCount: int)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/perlin.html#getValue.e,Perlin,float64,float64,float64	perlin: getValue(p: Perlin; noiseX, noiseY, noiseZ: float64): float64	

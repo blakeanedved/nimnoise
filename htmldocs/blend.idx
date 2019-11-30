@@ -1,0 +1,5 @@
+Blend	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/blend.html#Blend	blend: Blend	
+newBlend	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/blend.html#newBlend	blend: newBlend(): Blend	
+getControlModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/blend.html#getControlModule,Blend	blend: getControlModule(b: Blend): ModuleBase	
+setControlModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/blend.html#setControlModule,Blend,ModuleBase	blend: setControlModule(b: Blend; mb: ModuleBase)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/blend.html#getValue.e,Blend,float64,float64,float64	blend: getValue(b: Blend; noiseX, noiseY, noiseZ: float64): float64	

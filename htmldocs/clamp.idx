@@ -1,0 +1,6 @@
+Clamp	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/clamp.html#Clamp	clamp: Clamp	
+newClamp	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/clamp.html#newClamp	clamp: newClamp(): Clamp	
+getLowerBound	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/clamp.html#getLowerBound,Clamp	clamp: getLowerBound(c: Clamp): float64	
+getUpperBound	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/clamp.html#getUpperBound,Clamp	clamp: getUpperBound(c: Clamp): float64	
+setBounds	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/clamp.html#setBounds,Clamp,float64,float64	clamp: setBounds(c: Clamp; lower, upper: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/clamp.html#getValue.e,Clamp,float64,float64,float64	clamp: getValue(c: Clamp; noiseX, noiseY, noiseZ: float64): float64	

@@ -1,0 +1,7 @@
+Curve	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#Curve	curve: Curve	
+newCurve	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#newCurve	curve: newCurve(): Curve	
+addControlPoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#addControlPoint,Curve,float64,float64	curve: addControlPoint(c: Curve; inputValue, outputValue: float64)	
+clearAllControlPoints	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#clearAllControlPoints,Curve	curve: clearAllControlPoints(c: Curve)	
+getControlPointArray	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#getControlPointArray,Curve	curve: getControlPointArray(c: Curve): seq[ControlPoint]	
+getControlPointCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#getControlPointCount,Curve	curve: getControlPointCount(c: Curve): int	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/curve.html#getValue.e,Curve,float64,float64,float64	curve: getValue(c: Curve; noiseX, noiseY, noiseZ: float64): float64	

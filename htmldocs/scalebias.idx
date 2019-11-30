@@ -1,0 +1,7 @@
+ScaleBias	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#ScaleBias	scalebias: ScaleBias	
+newScaleBias	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#newScaleBias	scalebias: newScaleBias(): ScaleBias	
+getBias	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#getBias,ScaleBias	scalebias: getBias(sb: ScaleBias): float64	
+getScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#getScale,ScaleBias	scalebias: getScale(sb: ScaleBias): float64	
+setBias	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#setBias,ScaleBias,float64	scalebias: setBias(sb: ScaleBias; bias: float64): float64	
+setScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#setScale,ScaleBias,float64	scalebias: setScale(sb: ScaleBias; scale: float64): float64	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalebias.html#getValue.e,ScaleBias,float64,float64,float64	scalebias: getValue(sb: ScaleBias; noiseX, noiseY, noiseZ: float64): float64	

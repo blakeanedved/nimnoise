@@ -1,0 +1,10 @@
+RotatePoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#RotatePoint	rotatepoint: RotatePoint	
+setAngles	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#setAngles,RotatePoint,float64,float64,float64	rotatepoint: setAngles(rp: RotatePoint; x, y, z: float64)	
+newRotatePoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#newRotatePoint	rotatepoint: newRotatePoint(): RotatePoint	
+getXAngle	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#getXAngle,RotatePoint	rotatepoint: getXAngle(rp: RotatePoint): float64	
+getYAngle	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#getYAngle,RotatePoint	rotatepoint: getYAngle(rp: RotatePoint): float64	
+getZAngle	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#getZAngle,RotatePoint	rotatepoint: getZAngle(rp: RotatePoint): float64	
+setXAngle	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#setXAngle,RotatePoint,float64	rotatepoint: setXAngle(rp: RotatePoint; angle: float64)	
+setYAngle	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#setYAngle,RotatePoint,float64	rotatepoint: setYAngle(rp: RotatePoint; angle: float64)	
+setZAngle	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#setZAngle,RotatePoint,float64	rotatepoint: setZAngle(rp: RotatePoint; angle: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/rotatepoint.html#getValue.e,RotatePoint,float64,float64,float64	rotatepoint: getValue(rp: RotatePoint; noiseX, noiseY, noiseZ: float64): float64	

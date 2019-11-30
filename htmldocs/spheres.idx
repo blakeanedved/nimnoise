@@ -1,0 +1,5 @@
+Spheres	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/spheres.html#Spheres	spheres: Spheres	
+newSpheres	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/spheres.html#newSpheres	spheres: newSpheres(): Spheres	
+getSpheres	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/spheres.html#getSpheres,Spheres	spheres: getSpheres(s: Spheres): float64	
+setSpheres	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/spheres.html#setSpheres,Spheres,float64	spheres: setSpheres(s: Spheres; frequency: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/spheres.html#getValue.e,Spheres,float64,float64,float64	spheres: getValue(s: Spheres; noiseX, noiseY, noiseZ: float64): float64	

@@ -1,0 +1,11 @@
+ScalePoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#ScalePoint	scalepoint: ScalePoint	
+newScalePoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#newScalePoint	scalepoint: newScalePoint(): ScalePoint	
+getXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#getXScale,ScalePoint	scalepoint: getXScale(sp: ScalePoint): float64	
+getYScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#getYScale,ScalePoint	scalepoint: getYScale(sp: ScalePoint): float64	
+getZScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#getZScale,ScalePoint	scalepoint: getZScale(sp: ScalePoint): float64	
+setXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#setXScale,ScalePoint,float64	scalepoint: setXScale(sp: ScalePoint; xScale: float64)	
+setXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#setXScale,ScalePoint,float64_2	scalepoint: setXScale(sp: ScalePoint; yScale: float64)	
+setXScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#setXScale,ScalePoint,float64_3	scalepoint: setXScale(sp: ScalePoint; zScale: float64)	
+setScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#setScale,ScalePoint,float64	scalepoint: setScale(sp: ScalePoint; scale: float64)	
+setScale	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#setScale,ScalePoint,float64,float64,float64	scalepoint: setScale(sp: ScalePoint; xScale, yScale, zScale: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/scalepoint.html#getValue.e,ScalePoint,float64,float64,float64	scalepoint: getValue(sp: ScalePoint; noiseX, noiseY, noiseZ: float64): float64	

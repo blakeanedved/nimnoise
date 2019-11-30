@@ -1,0 +1,11 @@
+SQRT3	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#SQRT3	utils: SQRT3	
+ControlPoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#ControlPoint	utils: ControlPoint	
+makeInt32Range	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#makeInt32Range,float64	utils: makeInt32Range(value: float64): float64	
+mapCubicSCurve	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#mapCubicSCurve,float64	utils: mapCubicSCurve(value: float64): float64	
+mapQuinticSCurve	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#mapQuinticSCurve,float64	utils: mapQuinticSCurve(value: float64): float64	
+fast_floor	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#fast_floor,float64	utils: fast_floor(value: float64): int	
+gradientNoise3D	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#gradientNoise3D,float64,float64,float64,int,int,int,int	utils: gradientNoise3D(fx, fy, fz: float64; ix, iy, iz, seed: int): float64	
+interpolateLinear	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#interpolateLinear,float64,float64,float64	utils: interpolateLinear(a, b, pos: float64): float64	
+interpolateCubic	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#interpolateCubic,float64,float64,float64,float64,float64	utils: interpolateCubic(a, b, c, d, pos: float64): float64	
+gradientCoherentNoise3D	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#gradientCoherentNoise3D,float64,float64,float64,int,NoiseQuality	utils: gradientCoherentNoise3D(x, y, z: float64; seed: int; quality: NoiseQuality): float64	
+valueNoise3D	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/utils.html#valueNoise3D,int,int,int,int	utils: valueNoise3D(x, y, z, seed: int): float64	

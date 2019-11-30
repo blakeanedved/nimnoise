@@ -1,0 +1,5 @@
+Const	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/constant.html#Const	constant: Const	
+newConst	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/constant.html#newConst	constant: newConst(): Const	
+getConstValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/constant.html#getConstValue,Const	constant: getConstValue(c: Const): float64	
+setConstValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/constant.html#setConstValue,Const,float64	constant: setConstValue(c: Const; value: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/constant.html#getValue.e,Const,float64,float64,float64	constant: getValue(c: Const; noiseX, noiseY, noiseZ: float64): float64	

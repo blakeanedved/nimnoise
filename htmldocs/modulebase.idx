@@ -1,0 +1,9 @@
+ModuleBase	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#ModuleBase	modulebase: ModuleBase	
+Low	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#Low	NoiseQuality.Low	
+Medium	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#Medium	NoiseQuality.Medium	
+High	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#High	NoiseQuality.High	
+NoiseQuality	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#NoiseQuality	modulebase: NoiseQuality	
+setSourceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#setSourceModule,ModuleBase,uint,ModuleBase	modulebase: setSourceModule(mb: ModuleBase; index: uint; sm: ModuleBase)	
+getSourceModule	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#getSourceModule,ModuleBase,uint	modulebase: getSourceModule(mb: ModuleBase; index: uint): ModuleBase	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#getValue.e,ModuleBase,float64,float64,float64	modulebase: getValue(mb: ModuleBase; noiseX, noiseY, noiseZ: float64): float64	
+base	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/modulebase.html#base,ModuleBase,uint	modulebase: base(mb: ModuleBase; sourceModuleCount: uint)	

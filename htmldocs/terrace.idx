@@ -1,0 +1,10 @@
+Terrace	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#Terrace	terrace: Terrace	
+newTerrace	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#newTerrace	terrace: newTerrace(): Terrace	
+addControlPoint	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#addControlPoint,Terrace,float64	terrace: addControlPoint(t: Terrace; value: float64)	
+clearAllControlPoints	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#clearAllControlPoints,Terrace	terrace: clearAllControlPoints(t: Terrace)	
+getControlPointArray	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#getControlPointArray,Terrace	terrace: getControlPointArray(t: Terrace): seq[float64]	
+getControlPointCount	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#getControlPointCount,Terrace	terrace: getControlPointCount(t: Terrace): int	
+makeControlPoints	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#makeControlPoints,Terrace,int	terrace: makeControlPoints(t: Terrace; controlPointCount: int)	
+invertTerraces	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#invertTerraces,Terrace,bool	terrace: invertTerraces(t: Terrace; invert: bool = true)	
+isTerracesInverted	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#isTerracesInverted,Terrace	terrace: isTerracesInverted(t: Terrace): bool	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/terrace.html#getValue.e,Terrace,float64,float64,float64	terrace: getValue(t: Terrace; noiseX, noiseY, noiseZ: float64): float64	

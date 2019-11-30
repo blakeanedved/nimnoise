@@ -1,0 +1,12 @@
+Voronoi	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#Voronoi	voronoi: Voronoi	
+newVoronoi	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#newVoronoi	voronoi: newVoronoi(): Voronoi	
+getDisplacement	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#getDisplacement,Voronoi	voronoi: getDisplacement(v: Voronoi): float64	
+getFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#getFrequency,Voronoi	voronoi: getFrequency(v: Voronoi): float64	
+getSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#getSeed,Voronoi	voronoi: getSeed(v: Voronoi): int	
+isDistanceEnabled	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#isDistanceEnabled,Voronoi	voronoi: isDistanceEnabled(v: Voronoi): bool	
+setDisplacement	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#setDisplacement,Voronoi,float64	voronoi: setDisplacement(v: Voronoi; displacement: float64)	
+setFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#setFrequency,Voronoi,float64	voronoi: setFrequency(v: Voronoi; frequency: float64)	
+setSeed	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#setSeed,Voronoi,int	voronoi: setSeed(v: Voronoi; seed: int)	
+enableDistance	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#enableDistance,Voronoi,bool	voronoi: enableDistance(v: Voronoi; distance: bool = true)	
+disableDistance	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#disableDistance,Voronoi	voronoi: disableDistance(v: Voronoi)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/voronoi.html#getValue.e,Voronoi,float64,float64,float64	voronoi: getValue(v: Voronoi; noiseX, noiseY, noiseZ: float64): float64	

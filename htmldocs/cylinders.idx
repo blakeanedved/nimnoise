@@ -1,0 +1,5 @@
+Cylinders	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cylinders.html#Cylinders	cylinders: Cylinders	
+newCylinders	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cylinders.html#newCylinders	cylinders: newCylinders(): Cylinders	
+getFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cylinders.html#getFrequency,Cylinders	cylinders: getFrequency(c: Cylinders): float64	
+setFrequency	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cylinders.html#setFrequency,Cylinders,float64	cylinders: setFrequency(c: Cylinders; frequency: float64)	
+getValue	/Users/blake/Documents/Projects/nimnoise/src/nimnoise/htmldocs/cylinders.html#getValue.e,Cylinders,float64,float64,float64	cylinders: getValue(c: Cylinders; noiseX, noiseY, noiseZ: float64): float64	
