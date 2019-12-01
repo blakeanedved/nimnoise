@@ -260,7 +260,7 @@ proc gradientCoherentNoise3D*(x, y, z: float64, seed: int,
 #   result = (result shr 13) xor result
 #   result = ((result * (result * result * 60493 + 19990303) + 1376312589) and 0x7fffffff)
 {.compile: "valueNoise3DInt.c".}
-proc valueNoise3DInt(x, y, z, seed: cint): clong {.importc, inline, noSideEffect.}
+proc valueNoise3DInt(x, y, z, seed: cint): clong {.importc.}
 
 proc valueNoise3D*(x, y, z, seed: int): float64 {.inline, noSideEffect.} =
   1.0 - (valueNoise3DInt((GENERATOR_NOISE_X * x).cint, (GENERATOR_NOISE_Y * y).cint, (GENERATOR_NOISE_Z * z).cint, (GENERATOR_SEED * seed).cint).float64 / 1073741824.0)
