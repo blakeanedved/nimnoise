@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.1.1"
 author        = "blakeanedved"
 description   = "A port of libnoise into pure nim, heavily inspired by Libnoise.Unity, but true to the original Libnoise"
 license       = "MIT"
