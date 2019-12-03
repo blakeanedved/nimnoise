@@ -5,7 +5,6 @@ type
 
 proc newMax*(): Max =
   result = new Max
-  result.sourceModuleCount = 2
   result.base(2)
 
 method getValue*(m: Max, noiseX, noiseY, noiseZ: float64): float64 =

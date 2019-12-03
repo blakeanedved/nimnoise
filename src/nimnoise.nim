@@ -295,7 +295,7 @@ type
 
 proc newMultiply*(): Multiply =
   result = new Multiply
-  result.sourceModuleCount = 2
+
   result.base(2)
 
 method getValue*(m: Multiply, noiseX, noiseY, noiseZ: float64): float64 =
@@ -306,7 +306,7 @@ type
 
 proc newAbs*(): Abs =
   result = new Abs
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 method getValue*(a: Abs, noiseX, noiseY, noiseZ: float64): float64 =
@@ -448,7 +448,7 @@ type
 
 proc newCache*(): Cache =
   result = new Cache
-  result.sourceModuleCount = 1
+
   result.isCached = false
   result.base(1)
 
@@ -467,7 +467,7 @@ type
 
 proc newPower*(): Power =
   result = new Power
-  result.sourceModuleCount = 2
+
   result.base(2)
 
 method getValue*(p: Power, noiseX, noiseY, noiseZ: float64): float64 =
@@ -484,7 +484,7 @@ type
 proc newExponent*(): Exponent =
   result = new Exponent
   result.exponent = DEFAULT_EXPONENT
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc getExponent*(e: Exponent): float64 = e.exponent
@@ -561,7 +561,7 @@ proc setAngles*(rp: RotatePoint, x, y, z: float64) =
 proc newRotatePoint*(): RotatePoint =
   result = new RotatePoint
   result.setAngles(DEFAULT_ROTATE_X, DEFAULT_ROTATE_Y, DEFAULT_ROTATE_Z)
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc getXAngle*(rp: RotatePoint): float64 = rp.xAngle
@@ -604,7 +604,7 @@ type
 
 proc newAdd*(): Add =
   result = new Add
-  result.sourceModuleCount = 2
+
   result.base(2)
 
 method getValue*(a: Add, noiseX, noiseY, noiseZ: float64): float64 =
@@ -615,7 +615,7 @@ type
 
 proc newMin*(): Min =
   result = new Min
-  result.sourceModuleCount = 2
+
   result.base(2)
 
 method getValue*(m: Min, noiseX, noiseY, noiseZ: float64): float64 =
@@ -799,7 +799,7 @@ proc newTranslatePoint*(): TranslatePoint =
   result.xTranslation = DEFAULT_TRANSLATE_POINT_X
   result.yTranslation = DEFAULT_TRANSLATE_POINT_Y
   result.zTranslation = DEFAULT_TRANSLATE_POINT_Z
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc getXScale*(tp: TranslatePoint): float64 = tp.xTranslation
@@ -835,7 +835,7 @@ proc newScaleBias*(): ScaleBias =
   result = new ScaleBias
   result.bias = DEFAULT_BIAS
   result.scale = DEFAULT_SCALE
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc getBias*(sb: ScaleBias): float64 = sb.bias
@@ -862,7 +862,7 @@ proc newSelect*(): Select =
   result.edgeFalloff = DEFAULT_SELECT_EDGE_FALLOFF
   result.lowerBound = DEFAULT_SELECT_LOWER_BOUND
   result.upperBound = DEFAULT_SELECT_UPPER_BOUND
-  result.sourceModuleCount = 3
+
   result.base(3)
 
 proc getControlModule*(s: Select): ModuleBase = s.sourceModules[2]
@@ -916,7 +916,7 @@ type
 
 proc newInvert*(): Invert =
   result = new Invert
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 method getValue*(i: Invert, noiseX, noiseY, noiseZ: float64): float64 =
@@ -929,7 +929,7 @@ type
 
 proc newCurve*(): Curve =
   result = new Curve
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc addControlPoint*(c: Curve, inputValue, outputValue: float64) =
@@ -978,7 +978,7 @@ type
 
 proc newBlend*(): Blend =
   result = new Blend
-  result.sourceModuleCount = 3
+
   result.base(3)
 
 proc getControlModule*(b: Blend): ModuleBase = b.sourceModules[2]
@@ -997,7 +997,7 @@ type
 
 proc newMax*(): Max =
   result = new Max
-  result.sourceModuleCount = 2
+
   result.base(2)
 
 method getValue*(m: Max, noiseX, noiseY, noiseZ: float64): float64 =
@@ -1012,7 +1012,7 @@ type
 proc newTerrace*(): Terrace =
   result = new Terrace
   result.invertTerraces = false
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc addControlPoint*(t: Terrace, value: float64) =
@@ -1080,7 +1080,7 @@ type
 
 proc newDisplace*(): Displace =
   result = new Displace
-  result.sourceModuleCount = 4
+
   result.base(4)
 
 proc getXDisplaceModule*(d: Displace): ModuleBase = d.sourceModules[1]
@@ -1117,7 +1117,7 @@ proc newScalePoint*(): ScalePoint =
   result.xScale = DEFAULT_SCALE_POINT_X
   result.yScale = DEFAULT_SCALE_POINT_Y
   result.zScale = DEFAULT_SCALE_POINT_Z
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc getXScale*(sp: ScalePoint): float64 = sp.xScale
@@ -1255,7 +1255,7 @@ proc newTurbulence*(): Turbulence =
   result.xDistortModule = newPerlin()
   result.yDistortModule = newPerlin()
   result.zDistortModule = newPerlin()
-  result.sourceModuleCount = 1
+
   result.base(1)
 
 proc getFrequency*(t: Turbulence): float64 = t.xDistortModule.getFrequency()

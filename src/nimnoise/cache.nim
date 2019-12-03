@@ -7,7 +7,6 @@ type
 
 proc newCache*(): Cache =
   result = new Cache
-  result.sourceModuleCount = 1
   result.isCached = false
   result.base(1)
 

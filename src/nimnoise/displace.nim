@@ -5,7 +5,6 @@ type
 
 proc newDisplace*(): Displace =
   result = new Displace
-  result.sourceModuleCount = 4
   result.base(4)
 
 proc getXDisplaceModule*(d: Displace): ModuleBase = d.sourceModules[1]

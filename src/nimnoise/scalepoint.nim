@@ -14,7 +14,6 @@ proc newScalePoint*(): ScalePoint =
   result.xScale = DEFAULT_SCALE_POINT_X
   result.yScale = DEFAULT_SCALE_POINT_Y
   result.zScale = DEFAULT_SCALE_POINT_Z
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc getXScale*(sp: ScalePoint): float64 = sp.xScale

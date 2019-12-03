@@ -5,7 +5,6 @@ type
 
 proc newInvert*(): Invert =
   result = new Invert
-  result.sourceModuleCount = 1
   result.base(1)
 
 method getValue*(i: Invert, noiseX, noiseY, noiseZ: float64): float64 =

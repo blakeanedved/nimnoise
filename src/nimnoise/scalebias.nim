@@ -12,7 +12,6 @@ proc newScaleBias*(): ScaleBias =
   result = new ScaleBias
   result.bias = DEFAULT_BIAS
   result.scale = DEFAULT_SCALE
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc getBias*(sb: ScaleBias): float64 = sb.bias

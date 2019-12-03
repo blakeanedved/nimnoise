@@ -22,7 +22,6 @@ proc newTurbulence*(): Turbulence =
   result.xDistortModule = newPerlin()
   result.yDistortModule = newPerlin()
   result.zDistortModule = newPerlin()
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc getFrequency*(t: Turbulence): float64 = t.xDistortModule.getFrequency()

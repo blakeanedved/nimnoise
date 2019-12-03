@@ -37,7 +37,6 @@ proc setAngles*(rp: RotatePoint, x, y, z: float64) =
 proc newRotatePoint*(): RotatePoint =
   result = new RotatePoint
   result.setAngles(DEFAULT_ROTATE_X, DEFAULT_ROTATE_Y, DEFAULT_ROTATE_Z)
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc getXAngle*(rp: RotatePoint): float64 = rp.xAngle

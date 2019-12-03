@@ -7,7 +7,6 @@ type
 
 proc newCurve*(): Curve =
   result = new Curve
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc addControlPoint*(c: Curve, inputValue, outputValue: float64) =

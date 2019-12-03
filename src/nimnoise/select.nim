@@ -15,7 +15,6 @@ proc newSelect*(): Select =
   result.edgeFalloff = DEFAULT_SELECT_EDGE_FALLOFF
   result.lowerBound = DEFAULT_SELECT_LOWER_BOUND
   result.upperBound = DEFAULT_SELECT_UPPER_BOUND
-  result.sourceModuleCount = 3
   result.base(3)
 
 proc getControlModule*(s: Select): ModuleBase = s.sourceModules[2]

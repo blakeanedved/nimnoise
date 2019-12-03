@@ -5,7 +5,6 @@ type
 
 proc newMultiply*(): Multiply =
   result = new Multiply
-  result.sourceModuleCount = 2
   result.base(2)
 
 method getValue*(m: Multiply, noiseX, noiseY, noiseZ: float64): float64 =

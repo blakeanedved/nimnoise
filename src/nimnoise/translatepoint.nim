@@ -14,7 +14,6 @@ proc newTranslatePoint*(): TranslatePoint =
   result.xTranslation = DEFAULT_TRANSLATE_POINT_X
   result.yTranslation = DEFAULT_TRANSLATE_POINT_Y
   result.zTranslation = DEFAULT_TRANSLATE_POINT_Z
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc getXScale*(tp: TranslatePoint): float64 = tp.xTranslation

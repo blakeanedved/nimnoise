@@ -9,7 +9,6 @@ type
 proc newTerrace*(): Terrace =
   result = new Terrace
   result.invertTerraces = false
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc addControlPoint*(t: Terrace, value: float64) =

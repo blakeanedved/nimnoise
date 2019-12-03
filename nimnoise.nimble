@@ -9,3 +9,9 @@ srcDir        = "src"
 # Dependencies
 
 requires "nim >= 1.0.0"
+
+# Tasks
+
+task "test", "Run the Nimble tester":
+  withdir "tests":
+    exec "nim c -r tester"

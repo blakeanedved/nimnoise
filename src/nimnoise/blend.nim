@@ -6,7 +6,6 @@ type
 
 proc newBlend*(): Blend =
   result = new Blend
-  result.sourceModuleCount = 3
   result.base(3)
 
 proc getControlModule*(b: Blend): ModuleBase = b.sourceModules[2]

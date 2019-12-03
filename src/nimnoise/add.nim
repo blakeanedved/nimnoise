@@ -5,7 +5,6 @@ type
 
 proc newAdd*(): Add =
   result = new Add
-  result.sourceModuleCount = 2
   result.base(2)
 
 method getValue*(a: Add, noiseX, noiseY, noiseZ: float64): float64 =

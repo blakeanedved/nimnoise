@@ -11,7 +11,6 @@ type
 proc newExponent*(): Exponent =
   result = new Exponent
   result.exponent = DEFAULT_EXPONENT
-  result.sourceModuleCount = 1
   result.base(1)
 
 proc getExponent*(e: Exponent): float64 = e.exponent
